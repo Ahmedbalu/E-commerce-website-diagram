@@ -9,8 +9,20 @@ The admin is in charge of updating/deleting and adding category .
 <h3>Add/delete/update product</h3>
 when a product is out of stuck or newly arrived, the admin can update the status.
 <h3>Add warehouse</h3>
-admin monitors the warehouse.
+admin monitors the warehouse which will ship the product from to the customer.
 <h3>Add country and state</h3>
 information about the country and the state.
 <h3>Add shipping and tax cost</h3>
 calculate how much the total cost would be for shipping the products including the taxes.
+<h3>Add to cart</h3>
+User can browse the shop and add any product/item they want while shopping.
+<h3>Update/delete cart</h3>
+If the user added some item to the cart but later decided to get rid of it, it can be done by simply deleting that item from their cart.
+<h3>Order placement</h3>
+Once the user/customer is done with shopping and they got what they want, they can place the order to confirm it.
+<h3>Calculate shipping cost</h3>
+shows the user/customer the total cost.
+<h3>Payment</h3>
+finally the customer can procced with their payment via visa/master card to complete their shopping and wait for delivery.
+<h3>Logout</h3>
+Both the Admin and User/Customer can logout of the website anytime they want.
