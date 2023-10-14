@@ -1,5 +1,6 @@
 <h1>E-commerce website Diagram</h1>
-<h2>In this project, I will be presnitng about my design of diagram for E-commerce website, which then following the diagram we can build a funciontal website that can be used to start our business and sell the products. </h2>
+<h2>In this project, I will be presnitng about my design of diagram for E-commerce website, which then following the diagram we can build a funciontal website that can be used to start our business and sell the products.
+The case study will be shopee becuase I use it a lot, ofcourse it's not 100% going to be like shopee, but the key features and functions are there. </h2>
 
 - Visual Diagram.
 Image of the diagram:
