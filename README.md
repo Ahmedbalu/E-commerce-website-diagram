@@ -27,7 +27,7 @@ the manufacturer that produces the products/items get updated on daily basis dep
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/61cd933f-64a2-48ff-97d4-ca61f488f4bc)
 
 - calculate how much the total cost would be for shipping the products including the taxes. <h1></h1>
-- #Add to cart.
+- #Add to cart. <h1></h1>
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/04cd5728-6fcc-419c-ae1e-ee0fdd95c219)
 
 - User can browse the shop and add any product/item they want while shopping. <h1></h1>
