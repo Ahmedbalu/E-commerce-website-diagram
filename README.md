@@ -10,7 +10,7 @@ Image of the diagram:
 - In "login" both the user and the admin are required to make an account in order to login so the information can be saved
 <h2>Add/delete/update category</h2>
 - The admin is in charge of updating/deleting and adding category .
-#Add/delete/update product
+#Add/delete/update product.
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/9b126b64-6623-4d6c-8ee9-3fe53f005a1f)
 
 - when a product is out of stuck or newly arrived, the admin can update the status.
