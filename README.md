@@ -40,7 +40,7 @@ the manufacturer that produces the products/items get updated on daily basis dep
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/7e70edab-17ae-4058-a243-1d49e4baacbd)
 
 - shows the user/customer the total cost.
-#Payment
+- Payment.
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/c8eea1a8-9e91-4d74-a8b2-b4499dfe0ea8)
 
 - finally the customer can procced with their payment via visa/master card to complete their shopping and wait for delivery.
