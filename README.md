@@ -1,7 +1,7 @@
 <h1>E-commerce website Diagram</h1>
 <h2>In this project, I will be presnitng about my design of diagram for E-commerce website, which then following the diagram we can build a funciontal website that can be used to start our business and sell the products. </h2>
 <h2>Visual Diagram</h2>
-<img src= "./desktope-commerce diagram.png" alt="e-commerce diagram">
+<img src= "./desktop/e-commerce diagram.png" alt="e-commerce diagram">
 <h2>Login</h2>
 - In "login" both the user and the admin are required to make an account in order to login so the information can be saved
 <h2>Add/delete/update category</h2>
