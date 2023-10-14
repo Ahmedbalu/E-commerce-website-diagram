@@ -7,7 +7,7 @@ Image of the diagram:
 <h1></h1>
 
 
-- Login <h1>Login</h1> ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/32ee3828-6226-4e35-812f-204af2ce3aaf)
+ <h1>Login</h1> ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/32ee3828-6226-4e35-812f-204af2ce3aaf)
 
 
 - In "login" both the user and the admin are required to make an account in order to login so the information can be saved
