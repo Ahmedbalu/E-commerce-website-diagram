@@ -1,7 +1,7 @@
 <h1>E-commerce website Diagram</h1>
 <h2>In this project, I will be presnitng about my design of diagram for E-commerce website, which then following the diagram we can build a funciontal website that can be used to start our business and sell the products. </h2>
 <h2>Visual Diagram</h2>
-![e-commerce diagram](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/152c094d-c1f3-44c3-8233-fa799e002f2b)
+![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/9e09d56a-d309-4d6b-aa95-f90a929c9eaf)
 
 <h2>Login</h2>
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/32ee3828-6226-4e35-812f-204af2ce3aaf)
