@@ -47,7 +47,7 @@ the manufacturer that produces the products/items get updated on daily basis dep
 - #Payment.<h1></h1>
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/c8eea1a8-9e91-4d74-a8b2-b4499dfe0ea8)
 
-- finally the customer can procced with their payment via visa/master card to complete their shopping and wait for delivery. <h1></h1>
+- finally the customer can procced with their payment via visa/master card Or cash on delivery(CoD) to complete their shopping and wait for delivery. <h1></h1>
 - #Logout.<h1></h1>
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/ed62219e-d0fc-471f-9a9f-e20283d36895)
 
