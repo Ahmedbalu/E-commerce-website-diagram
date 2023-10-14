@@ -1,7 +1,6 @@
 <h1>E-commerce website Diagram</h1>
 <h2>In this project, I will be presnitng about my design of diagram for E-commerce website, which then following the diagram we can build a funciontal website that can be used to start our business and sell the products. </h2>
 <h2>Visual Diagram</h2>
-![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/9e09d56a-d309-4d6b-aa95-f90a929c9eaf)
 
 <h2>Login</h2>
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/32ee3828-6226-4e35-812f-204af2ce3aaf)
@@ -47,3 +46,4 @@ the manufacturer that produces the products/items get updated on daily basis dep
 ![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/ed62219e-d0fc-471f-9a9f-e20283d36895)
 
 - Both the Admin and User/Customer can logout of the website anytime they want.
+![image](https://github.com/Ahmedbalu/E-commerce-website-diagram/assets/96815401/903e4152-9380-41f5-bc49-9a28df03415d)
